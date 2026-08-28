@@ -16,7 +16,7 @@
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="io.chaldeaprjkt.gamespace"
+    package="io.chaldeagamespace"
     android:sharedUserId="android.uid.system">
 
     <uses-permission android:name="android.permission.GET_TASKS" />
@@ -32,7 +32,7 @@
     <uses-permission android:name="android.permission.ACCESS_FPS_COUNTER" />
 
     <application
-        android:name=".GameSpace"
+        android:name=".gamebooster"
         android:label="@string/settings_title"
         android:supportsRtl="true"
         android:theme="@style/GameSpaceTheme">
